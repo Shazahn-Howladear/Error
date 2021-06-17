@@ -54,12 +54,11 @@ logo='''
 
 
 \x1b[1;93m➣  WHATSAPP : 01931192399
-\x1b[1;95m➣  Y TEXT    : SHAZAHN HOWLADEAR
-\x1b[1;96m➣  FUNE CODE : AGEA ME JAWAN HO KAR
+\x1b[1;95m➣  Y TEXT    : SHAZAH  FUNE CODE : AGEA ME JAWAN HO KAR
 \x1b[1;97m➣  NOTE     : USE FAST 4G SIM NET.
 \x1b[1;94m➣  DISCLAMIAR :AWAY FROM ILLIGAL WAY.
 \x1b[1;93m--------------------------------------------------------------"""
-                                '''
+                                ''
 
 back = 0
 successful = []
@@ -68,7 +67,7 @@ oks = []
 id = []
 def menu():
 	os.system('clear')
-	print logo
+	print log
 	print "\033[1;92mWELCOME TO ALL "
 	print
         
